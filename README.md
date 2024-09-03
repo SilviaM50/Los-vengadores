@@ -9,3 +9,5 @@ Pueden hacer lo que quieran...
 ## One pice
 -Lufy
 -Soro
+-Nami
+-Ussop
