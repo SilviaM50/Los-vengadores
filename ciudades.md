@@ -5,3 +5,4 @@
 3. Hell's Kitchen
 4. Arequipa
 5. Lima
+6. Huaraz
